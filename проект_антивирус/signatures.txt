@@ -1,3 +1,7 @@
-4D 5A 90 00  
-This program is infected!  
-http://malicious.example.com/  
+rm -rf /  
+eval(base64... 
+<script>alert('XSS')</script> 
+
+4D 5A 90 00
+This program is infected!
+http://malicious.example.com/
