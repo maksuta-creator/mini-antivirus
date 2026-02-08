@@ -40,7 +40,7 @@ def action_1():
 
     signature_filename = "signatures.txt"
     if not os.path.exists(signature_filename):
-        print(f"Ошибка: Файл сигнатур '{signature_filename}' не найден по пути: {os.path.abspath(signature_filename)}") #хрень ищет путь к файлу
+        print(f"Ошибка: Файл сигнатур '{signature_filename}' не найден по пути: {os.path.abspath(signature_filename)}") # ищет путь к файлу
         pause()
 
 
@@ -131,3 +131,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
